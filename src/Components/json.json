@@ -1,0 +1,597 @@
+[
+    {
+        "title": "OnePlus 12 (Flowy Emerald, 12 GB RAM, 256GB)",
+        "image": {
+            "image1": "https://m.media-amazon.com/images/I/717Qo4MH97L._SX679_.jpg",
+            "image2": "https://m.media-amazon.com/images/I/61CEiTA5WWL._SX679_.jpg",
+            "image3": "https://m.media-amazon.com/images/I/51ui6USIv7L._SX679_.jpg",
+            "image4": "https://m.media-amazon.com/images/I/61AplC-qoML._SX679_.jpg"
+        },
+        "info": {
+            "description1": "Display: 6.82 inches (17.32 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory: 16GB RAM, 512GB ROM",
+            "description3": "Processor: Qualcomm Snapdragon 8 Gen 3, Octa Core",
+            "description4": "Camera : 50 MP + 64 MP + 48 MP Triple Rear & 32 MP Front Camera",
+            "description5": "Battery: 5400 mAh with 50W AIRVOOC Ultra Fast Charging",
+            "description6": "USP: Aqua Touch Technology, Dual Cryo Velocity System, X7 Independent Visual Processor"
+        },
+        "price": {
+            "price": 69999,
+            "OfferPrice": 64999
+        },
+        "availability": 50,
+        "brand": "OnePlus",
+        "rating": 4.5,
+        "ram": {
+            "ram1": "12 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "256 GB",
+            "storage2": "512 GB"
+        },
+        "id": "1"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "2"
+    },
+    {
+        "title": "Apple iPhone 14 (512GB, Red)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1662702995/Croma%20Assets/Communication/Mobiles/Images/261943_ffc6cl.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1685965175/Croma%20Assets/Communication/Mobiles/Images/261943_4_yfa51l.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1685965169/Croma%20Assets/Communication/Mobiles/Images/261943_8_j684ul.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display: 6.1 inches (15.40 cm) OLED Display",
+            "description2": "Memory: 512GB ROM",
+            "description3": "Processor: A15 Bionic Chip, Hexa Core",
+            "description4": "Camera: 12 MP + 12 MP Dual Rear & 12 MP Front Camera",
+            "description5": "Battery: Qi Wireless Charging Up to 7.5W",
+            "description6": "Security (Lock): Facial Lock"
+        },
+        "price": {
+            "price": 99975,
+            "OfferPrice": 74990
+        },
+        "availability": 30,
+        "brand": "Apple",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "6 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB",
+            "storage3": "512 GB"
+        },
+        "id": "3"
+    },
+    {
+        "title": "SAMSUNG Galaxy Z Flip4 5G (8GB RAM, 128GB, Bora Purple)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1665510036/Croma%20Assets/Communication/Mobiles/Images/260515_11_x0kkqy.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1665510058/Croma%20Assets/Communication/Mobiles/Images/260515_12_mrxi2e.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1665510058/Croma%20Assets/Communication/Mobiles/Images/260515_13_b6iwln.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1665510058/Croma%20Assets/Communication/Mobiles/Images/260515_15_tn5u6n.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display: 6.7 inches (17.01 cm), Dynamic AMOLED 2X, 120 Hz Refresh Rate",
+            "description2": "Memory: 8GB RAM, 128GB ROM",
+            "description3": "Processor: Qualcomm Snapdragon 8+, Octa Core, 3.18 GHz",
+            "description4": "Camera : 12 MP + 12 MP Dual Rear & 10 MP Front Camera",
+            "description5": "Battery: 3700 mAh with Super Fast Charging",
+            "description6": "Security (Lock): Password | Pattern | PIN | Fingerprint Sensor | Face Unlock"
+        },
+        "price": {
+            "price": 101999,
+            "OfferPrice": 64999
+        },
+        "availability": 41,
+        "brand": "SAMSUNG",
+        "rating": 4.2,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB",
+            "storage3": "512 GB"
+        },
+        "id": "4"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "5"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "6"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "7"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "8"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "9"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "10"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "11"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "12"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "13"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "14"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "15"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "16"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "17"
+    },
+    {
+        "title": "OnePlus 11R 5G (16GB RAM, 256GB, Sonic Black)",
+        "image": {
+            "image1": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563290/Croma%20Assets/Communication/Mobiles/Images/269147_0_qf7fy1.png?tr=w-640",
+            "image2": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563292/Croma%20Assets/Communication/Mobiles/Images/269147_3_tuhzib.png?tr=w-640",
+            "image3": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563310/Croma%20Assets/Communication/Mobiles/Images/269147_4_peiej3.png?tr=w-640",
+            "image4": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1683563300/Croma%20Assets/Communication/Mobiles/Images/269147_7_t3urcm.png?tr=w-640"
+        },
+        "info": {
+            "description1": "Display : 6.74 inches (17.12 cm), AMOLED, 120 Hz Refresh Rate",
+            "description2": "Memory : 16GB RAM, 256GB ROM",
+            "description3": "Processor : Qualcomm Snapdragon 8 Gen 1, Octa Core",
+            "description4": "Camera : 50 MP + 8 MP + 2MP Triple Rear & 16MP Front Camera",
+            "description5": "Battery : 5000mAh",
+            "description6": "USP : Face Unlock"
+        },
+        "price": {
+            "price": 49999,
+            "OfferPrice": 44999
+        },
+        "availability": 22,
+        "brand": "OnePlus",
+        "rating": 4.8,
+        "ram": {
+            "ram1": "8 GB",
+            "ram2": "16 GB"
+        },
+        "storage": {
+            "storage1": "128 GB",
+            "storage2": "256 GB"
+        },
+        "id": "18"
+    }
+]
